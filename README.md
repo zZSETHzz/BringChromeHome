@@ -11,6 +11,10 @@ You can also follow us on Twitter: https://twitter.com/chromefy
 
 ## Observations
 
+  - You must have somewhat closely matching hardware to the ChromeOS install chosen later.
+    > You will need TPM 2.0 for all TPM 2.0 Chrome installs.
+    > you will need a closely matching CPU. No support for AMD currently
+    > GPU support is extremely limited and as such onboard are the only recommended display adapters to use.
   - You need a Chromium installation running
     > We strongly recommend using [ArnoldTheBats Chromium](https://chromium.arnoldthebat.co.uk/index.php?dir=special&order=modified&sort=desc) Stable builds.
     > Just deploy the img to a USB Stick, [Rufus](https://rufus.ie/en_IE.html) and similar programs will do the work.
