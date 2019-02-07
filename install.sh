@@ -22,7 +22,7 @@ WORKDIR=${WORKDIR:-/home/chronos/user/tmp.crosrec}
 # Where do we look for the config file? We can override this for debugging by
 # specifying "--config URL" on the command line, but curl and wget may handle
 # file URLs differently.
-CONFIGURL="${2:-https://goo.gl/u3o8Sq}"
+CONFIGURL="${2:-https://github.com/zZSETHzz/BringChromeHome/blob/master/recovery.conf}"
 
 # Device to put this stuff on, perhaps the user knows best?
 DEVICE="${DEVICE:-}"
