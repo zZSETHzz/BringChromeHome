@@ -20,6 +20,8 @@ You can also follow us on Twitter: https://twitter.com/chromefy
     > Just deploy the img to a USB Stick, [Rufus](https://rufus.ie/en_IE.html) and similar programs will do the work.
   - You have to be logged in (because if you don't, the initial setup won't work).
   - We are not responsible for any damage made to your computer by you or by your dog.
+  -Updating
+	> Auto updates do not work however running the install script again will check for if a newer build is available and offer the option to update. If no update is available it offers the option to clean install the same build.
 ---
 
 # Install
