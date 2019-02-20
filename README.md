@@ -41,7 +41,7 @@ Then you will need to follow the prompts for username and password. Username= ch
 
 Type the following command
 
-> bash <(curl -s -L https://bit.ly/2MTr9Tn)
+> bash <(curl -s -L https://bit.ly/2BIT304)
 
 you will now be given the options to select a build of Chrome OS, each build is for a different Chromebook/Chromebox and so hardware varies with each choice. Find a complete list with numbers here!
 
